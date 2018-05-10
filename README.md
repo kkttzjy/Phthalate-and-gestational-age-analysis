@@ -1,6 +1,6 @@
 # Associations between Mixtures of Urinary Phthalate Metabolites with Gestational Age at Delivery: A Time to Event Analysis using Summative Phthalate Risk Scores
 ## Data
-All codes are ran on the data "rawdata.rds".
+"rawdata.rds" is the simulated data set with similar characteristics as the original data set. All codes can be ran on the data "rawdata.rds".
 
 ## Methods
 ### Analysis with Average Exposure
