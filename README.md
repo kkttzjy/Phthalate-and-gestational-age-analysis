@@ -39,3 +39,8 @@ Similar with single-pollutatnt model, time-varying ERS-Corr and ERS-Stepwise are
 
 ## R function used in WQS calculation
 "quantile_f.R" is used in WQS calculation to transform continuous phthalate exposures into quantiles indicators.
+
+## Programming Language: R
+## Software Version: R version 3.4.4
+## Operating System: macOS
+
